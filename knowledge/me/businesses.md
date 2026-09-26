@@ -14,6 +14,7 @@ _Source: UK Marketing & Compliance Pack, 2026-09-26_
 - Audiences: ritual seeker (25–44), food explorer (20–40), after-meal ritualist (30–55).
 - Compliance stance: no detox/digestion/gut/weight/regularity claims until authorised on the GB Nutrition and Health Claims Register and substantiated (CAP s15). HFSS assessment needed before paid online ads.
 - IP: UK entity must own mark, domains, handles, artwork, customer data; supplier barred from using the mark or selling into territory.
+- Role: Paul is the founder.
 - Stage: pre-launch. Revenue / unit cost / RRP / channel / MOQ: _unknown_
 - Biggest constraint: _unconfirmed_ — likely demand for this category is driven by the gut/detox claims it cannot make.
 
